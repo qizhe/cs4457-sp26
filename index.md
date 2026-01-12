@@ -28,5 +28,5 @@ My goal for you in this course is not only to understand what computer networks 
 - Office Hours: TBD
 - TA(s): [Tianyu Zuo](mailto:ty.zuo@outlook.com), [Zeyu Xia](mailto:yxn7cj@virginia.edu), [Ashhab, Md. Mahir](mailto:ftm2nu@virginia.edu)
 - Preferred email: [cs-staff](mailto:cs4457staffsp26@virginia.edu)
-- Textbook: https://book.systemsapproach.org/index.html
+- Textbook: [URL](https://book.systemsapproach.org/index.html)
 
