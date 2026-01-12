@@ -22,12 +22,12 @@ My goal for you in this course is not only to understand what computer networks 
 
 ### Class Info
 
-- Time/Location: Tu/Th 3:30 PM – 4:45 PM, Olsson Hall 005
+- Time/Location: Tu/Th 3:30 PM – 4:45 PM, Mechanical Engr Bldg 205(On Grounds)
 - Dates: 01/13/2026 – 04/28/2026
 - Instructor: [Qizhe Cai](https://www.qizhecai.com)
 - Email: [caiqizhe@virginia.edu](mailto:caiqizhe@virginia.edu)  
 - Office Hours: TBD
 - TA(s): [Tianyu Zuo](mailto:ty.zuo@outlook.com), [Zeyu Xia](mailto:yxn7cj@virginia.edu), [Ashhab, Md. Mahir](mailto:ftm2nu@virginia.edu)
-- Preferred email / forum: TBD
+- Preferred email: [cs-staff](mailto:cs4457staffsp26@virginia.edu)
 - Textbook: https://book.systemsapproach.org/index.html
 
