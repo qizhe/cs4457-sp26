@@ -22,11 +22,14 @@ My goal for you in this course is not only to understand what computer networks 
 
 ### Class Info
 
-- Time/Location: Tu/Th 3:30 PM – 4:45 PM, Mechanical Engr Bldg 205(On Grounds)
+- Time/Location: Tu/Th 3:30 PM – 4:45 PM, Mechanical Engr Bldg 205 (On Grounds)
 - Dates: 01/13/2026 – 04/28/2026
 - Instructor: [Qizhe Cai](https://www.qizhecai.com)
-- Office Hours: TBD
-- TA(s): [Tianyu Zuo](mailto:ty.zuo@outlook.com), [Zeyu Xia](mailto:yxn7cj@virginia.edu), [Ashhab, Md. Mahir](mailto:ftm2nu@virginia.edu)
+- Office Hours: Tuesday, 2:30–3:30 PM, Rice 102  
+- TA(s): 
+  - [Tianyu Zuo](mailto:ktq4vj@virginia.com): Friday, 2:00–4:00 PM, Rice 336
+  - [Zeyu Xia](mailto:yxn7cj@virginia.edu): Thursday, 1:00–3:00 PM, Rice 442  
+  - [Md. Mahir Ashhab](mailto:ftm2nu@virginia.edu): Monday, 1:00–3:00 PM
 - Preferred email: [cs-staff](mailto:cs4457staffsp26@virginia.edu)
 - Textbook: [URL](https://book.systemsapproach.org/index.html)
 

@@ -52,7 +52,7 @@ There will be three in-class exams on 02/10, 03/05, and 04/28
 ---
 
 ### Course Evaluations
-Completing the course evaluations will earn you the full 5% of this component
-No partial credit – simply submitting the evaluations ensures you receive the entire 5%
+Completing the course evaluations will earn you the full 5% of this component.  
+No partial credit – simply submitting the evaluations ensures you receive the entire 5%. 
 
 ---
