@@ -42,9 +42,9 @@ There will be several in-class surprise quizzes throughout the semester
 ---
 
 ### Exams
-There will be three in-class exams on 02/10, 03/05, and 04/28
+There will be three in-class exams on 02/10, 03/12, and 04/28.
 
-- If you have a conflict, you must email [](email) with the subject line "Exam conflict declaration" before 01/20 – conflicts not declared by this date cannot be accommodated
+- If you have a conflict, you must email the [instructor](email:caiqizhe@virginia.edu) with the subject line "Exam conflict declaration" before 01/20 – conflicts not declared by this date cannot be accommodated
 - All exams are cumulative – they will cover material from lectures, quizzes, and problem sets up to one week before the exam
 - All exams are open-book and open-notes
 - Academic integrity: if anyone is found cheating on an exam, both the copier and the copied will receive an F for the course – it is your responsibility to ensure others cannot see your work
