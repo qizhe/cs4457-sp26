@@ -9,7 +9,7 @@ permalink: /schedule.html
 
 | Date      | Topic                                                                        | Readings                                                                                                                                                                                           |
 | --------- | ---------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Tue 01/13 | **Lecture 1 – Course Overview**                                              | [A Brief History of the Internet](https://dl.acm.org/doi/abs/10.1145/1629607.1629613); [P&D](https://book.systemsapproach.org/) §1.1–1.2                                                                                                |
+| Tue 01/13 | **Lecture 1 – Course Overview** [[Slide](slides/lecture01-intro.pdf)]        | [A Brief History of the Internet](https://dl.acm.org/doi/abs/10.1145/1629607.1629613); [P&D](https://book.systemsapproach.org/) §1.1–1.2                                                                                                |
 | Thu 01/15 | **Lecture 2 – Sharing the Network: Circuits and Packets**                    | P&D §1.2                                                                                                                                                                                           |
 | Tue 01/20 |  |  |
 | Thu 01/22 |  |  |
