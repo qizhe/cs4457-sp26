@@ -29,7 +29,7 @@ My goal for you in this course is not only to understand what computer networks 
 - TA(s): 
   - [Tianyu Zuo](mailto:ktq4vj@virginia.com): Friday, 2:00–4:00 PM, Rice 336
   - [Zeyu Xia](mailto:yxn7cj@virginia.edu): Thursday, 1:00–3:00 PM, Rice 442  
-  - [Md. Mahir Ashhab](mailto:ftm2nu@virginia.edu): Monday, 1:00–3:00 PM
+  - [Md. Mahir Ashhab](mailto:ftm2nu@virginia.edu): Monday, 1:00–3:00 PM, Rice 442
 - Preferred email: [cs-staff](mailto:cs4457staffsp26@virginia.edu)
 - Textbook: [URL](https://book.systemsapproach.org/index.html)
 
